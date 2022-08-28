@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="streamtv" name="Stream TV" version="1.2" provider-name="Pineapple-Geek">
+<addon id="streamtv" name="Stream TV" version="1.2.1" provider-name="Pineapple-Geek">
     <extension point="xbmc.addon.repository" name="Stream TV Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Pineapple-Geek/streamtv.repo/master/repo/zips/addons.xml</info>
